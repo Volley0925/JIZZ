@@ -1,0 +1,8 @@
+/* pages/notice/notice.wxss */
+.title{
+  display: inline;
+  align-items: center;
+  font-size: medium;
+  color: rgb(236, 182, 183);
+  margin:100rpx
+}
